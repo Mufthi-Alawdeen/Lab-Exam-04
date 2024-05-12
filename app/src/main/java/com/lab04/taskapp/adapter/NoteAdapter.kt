@@ -1,4 +1,4 @@
-package com.shaluambasta.noteapp.adapter
+package com.lab04.taskapp.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,8 +8,8 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.button.MaterialButton
 import com.shaluambasta.noteapp.R
-import com.shaluambasta.noteapp.model.NoteModel
-import com.shaluambasta.noteapp.utils.DialogBox
+import com.lab04.taskapp.model.NoteModel
+import com.lab04.taskapp.utils.DialogBox
 
 class NoteAdapter(
 
