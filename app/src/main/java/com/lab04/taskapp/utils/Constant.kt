@@ -1,4 +1,4 @@
-package com.shaluambasta.noteapp.utils
+package com.lab04.taskapp.utils
 
 
 const val TABLE_NAME = "NoteTable"
