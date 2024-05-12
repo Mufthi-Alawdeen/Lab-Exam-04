@@ -1,4 +1,4 @@
-package com.shaluambasta.noteapp
+package com.lab04.taskapp
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,9 +9,9 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.textfield.TextInputLayout
-import com.shaluambasta.noteapp.db.DBOpenHelper
-import com.shaluambasta.noteapp.utils.COLUMN_NAME_DESCRIPTION
-import com.shaluambasta.noteapp.utils.COLUMN_NAME_TITLE
+import com.lab04.taskapp.db.DBOpenHelper
+import com.lab04.taskapp.utils.COLUMN_NAME_DESCRIPTION
+import com.lab04.taskapp.utils.COLUMN_NAME_TITLE
 
 class UpdateNoteActivity : AppCompatActivity() {
 
