@@ -1,4 +1,4 @@
-package com.shaluambasta.noteapp.model
+package com.lab04.taskapp.model
 
 data class NoteModel(
 
