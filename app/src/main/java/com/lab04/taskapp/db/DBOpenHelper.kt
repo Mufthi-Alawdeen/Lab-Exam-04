@@ -1,4 +1,4 @@
-package com.shaluambasta.noteapp.db
+package com.lab04.taskapp.db
 
 import android.content.ContentValues
 import android.content.Context
@@ -8,9 +8,9 @@ import android.database.sqlite.SQLiteOpenHelper
 import android.provider.BaseColumns
 import android.util.Log
 import com.shaluambasta.noteapp.model.NoteModel
-import com.shaluambasta.noteapp.utils.COLUMN_NAME_DESCRIPTION
-import com.shaluambasta.noteapp.utils.COLUMN_NAME_TITLE
-import com.shaluambasta.noteapp.utils.TABLE_NAME
+import com.lab04.taskapp.utils.COLUMN_NAME_DESCRIPTION
+import com.lab04.taskapp.utils.COLUMN_NAME_TITLE
+import com.lab04.taskapp.utils.TABLE_NAME
 
 
 private const val SQL_CREATE_ENTRIES =
