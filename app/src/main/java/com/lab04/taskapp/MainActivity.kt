@@ -1,13 +1,13 @@
-package com.shaluambasta.noteapp
+package com.lab04.taskapp
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import com.shaluambasta.noteapp.adapter.NoteAdapter
-import com.shaluambasta.noteapp.db.DBOpenHelper
-import com.shaluambasta.noteapp.model.NoteModel
+import com.lab04.taskapp.adapter.NoteAdapter
+import com.lab04.taskapp.db.DBOpenHelper
+import com.lab04.taskapp.model.NoteModel
 
 class MainActivity : AppCompatActivity() {
 
